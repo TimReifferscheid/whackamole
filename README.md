@@ -12,3 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -Timer
 -Score
 -Moles can be whacked by the cursor and spawn randomly
+
+##Not yet responsive, focus for the first iteration was the core logic
